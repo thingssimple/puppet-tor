@@ -4,7 +4,7 @@
 #
 #   include tor
 class tor (
-  $version = '4.0.1'
+  $version = '5.0.6'
 ) {
   package { 'TorBrowser':
     provider => 'appdmg',
